@@ -1,0 +1,13 @@
+quantum,reference,mean_diff,wins,wilcoxon_p
+VQC-wCE+τ,LogReg-wCE+τ,0.1836,5/5,0.0625
+VQC-wCE+τ,XGBoost-wCE+τ,-0.0174,3/5,0.8125
+VQC-wCE+τ,XGBoost-CE+τ,0.0143,2/5,1.0
+VQC-wCE+τ,LogReg-CE+τ,-0.0146,3/5,1.0
+VQC-Focal+τ,LogReg-wCE+τ,0.2116,4/5,0.125
+VQC-Focal+τ,XGBoost-wCE+τ,0.0106,4/5,0.625
+VQC-Focal+τ,XGBoost-CE+τ,0.0423,3/5,0.625
+VQC-Focal+τ,LogReg-CE+τ,0.0134,2/5,1.0
+VQC-CE+τ,LogReg-wCE+τ,0.1745,3/5,0.3125
+VQC-CE+τ,XGBoost-wCE+τ,-0.0265,2/5,0.8125
+VQC-CE+τ,XGBoost-CE+τ,0.0052,2/5,1.0
+VQC-CE+τ,LogReg-CE+τ,-0.0236,3/5,0.8125

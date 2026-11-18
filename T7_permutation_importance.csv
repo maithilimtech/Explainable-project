@@ -1,0 +1,16 @@
+feature,VQC-wCE,XGBoost-wCE
+flag,0.1224,0.0131
+num_failed_logins,0.0293,-0.0024
+rerror_rate,0.0258,-0.0216
+dst_host_same_srv_rate,0.0236,0.0238
+srv_rerror_rate,0.0213,-0.0062
+dst_host_count,0.0182,0.0273
+dst_host_srv_rerror_rate,0.018,0.002
+srv_serror_rate,0.0167,0.0202
+dst_host_srv_diff_host_rate,0.0158,0.0431
+dst_host_srv_count,0.0133,0.0356
+logged_in,0.0118,0.0051
+duration,0.0093,-0.0004
+serror_rate,0.0073,0.0231
+dst_host_rerror_rate,0.0047,-0.0093
+num_access_files,0.0047,0.0011
